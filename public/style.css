@@ -1,10 +1,10 @@
 /****** Main Styling ******/
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Spectral', serif;
 	font-size: 16px;
 	color: #222;
-	background-color: #ECF0F1;
+	background-color: #3e96ac;
 	text-align: center;
 }
 
@@ -25,7 +25,7 @@ ul {
 }
 
 a {
-	color: #2574A9;
+	color: #091c29;
 }
 
 input {
@@ -41,7 +41,7 @@ input#button {
   position:relative;
   margin: auto;
   margin-top: 40px;
-  border: 1px  solid  #aaa;
+  border: 1px  solid  rgb(12, 11, 11);
   padding: 20px;
   width: 60%;
   min-width: 400px;
@@ -51,4 +51,5 @@ input#button {
 img {
 	margin: 20px auto 0 auto;
 	display: block;
+	color: #04131d;
 }
